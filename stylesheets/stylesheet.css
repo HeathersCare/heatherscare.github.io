@@ -315,6 +315,11 @@ Full-Width Styles
   text-shadow: #111 0px 0px 10px;
 }
 
+#mailing_list {
+    font-size: 24px;
+    font-weight: 300;
+    background: transparent none repeat scroll 0% 0%;
+}
 #downloads {
   position: absolute;
   width: 210px;
