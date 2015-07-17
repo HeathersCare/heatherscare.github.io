@@ -315,7 +315,7 @@ Full-Width Styles
   text-shadow: #111 0px 0px 10px;
 }
 
-#mailing_list {
+.outreach_header {
     font-size: 24px;
     font-weight: 300;
     background: transparent none repeat scroll 0% 0%;
